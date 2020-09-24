@@ -6,7 +6,8 @@
   <body>
     <script>
       function redirectFunc() {
-        window.location.assign("https://dspg-isu.shinyapps.io/alcohol/");
+        uri = "https://dspgtools.shinyapps.io/dspg20alcohol/" + window.location.search;
+        window.location.assign(uri);
       }
       redirectFunc();
       // setTimeout("redirectFunc()", 2000);
