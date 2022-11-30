@@ -1,0 +1,14 @@
+name: dspg20alcohol
+title: dspg20alcohol
+username:
+account: publicsciencecollaborative
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7775725
+bundleId: 6573883
+url: https://publicsciencecollaborative.shinyapps.io/dspg20alcohol/
+when: 1669835823.03678
+lastSyncTime: 1669835823.03678
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: alcohol_Index.xlsx|alcohol_Index_SFD.csv|BRFSS.csv|BroaderIndex_Demo.xlsx|cities_Liquor_Sales.csv|cities_Liquor_Sales.xlsx|Crash - Accident Visualization (2).ipynb|DEMOS_App.R|DEMOS_Data.R|DEMOS_Forecasting.R|DEMOS_Shiny.R|desktop.ini|docs/index.html|indexmap.csv|map_Data_Unemp_sales.csv|R Code|Text Scrapping (1).ipynb
